@@ -1,0 +1,10 @@
+0|	Ram|	Thapa|	9840126725|	BIR|	KEP|	one|
+1|	Sita|	KC|	9813781724|	KEP|	PKR|	one|
+2|	Mrinal|	Shahi|	9803795156|	KTM|	PKR|	one|
+3|	Sneha|	Sharma|	9841952713|	KTM|	PKR|	one|
+5|	Aayush|	Karki|	981381742|	KEP|	KTM|	one|
+6|	Suraj|	Singh|	9851057181|	KTM|	KEP|	one|
+7|	Anisha|	Dhakal|	9811223312|	PKR|	KEP|	one|
+8|	Ally|	Dangol|	9841335107|	BIR|	KEP|	one|
+9|	Sneha|	Singh|	9803579555|	BIR|	PKR|	one|
+10|	Aachal|	Singh|	9810278351|	BIR|	PKR|	one|
