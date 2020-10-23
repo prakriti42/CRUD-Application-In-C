@@ -1,4 +1,4 @@
-/* Author:p00-codes
+/* Author:Prakriti Regmi
    AIR TICKETING MANAGEMENT SYSTEM
    Wriiten on : June , 2020
 */
